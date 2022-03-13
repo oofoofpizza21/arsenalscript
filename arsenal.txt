@@ -10,7 +10,7 @@
 	--All players in the game will be aimed at
     _G.WRDAimbotTeamCheck = true
 
-    --If true, 
+    --If false, 
         --Simulates mouse movement. Its as if you actually moved your mouse onto the player, meaning this is harder to detect
         --Tradeoff is it comes with a lot of bugs. Lacks smoothness, not 100% accurate, and can't aim at players dirrectly behind.
     --If false, 
